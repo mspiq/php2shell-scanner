@@ -58,7 +58,7 @@ Both libraries are optional — the scanner falls back to Python standard librar
 
 ```bash
 git clone https://github.com/mspiq/php2shell-scanner.git
-cd php2shell_scanner
+cd php2shell-scanner
 pip install -r requirements.txt
 chmod +x php2shell_scanner.py
 ```
